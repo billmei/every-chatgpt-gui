@@ -1,6 +1,6 @@
 # Every front-end GUI client for ChatGPT
 
-Similar to [Every Proximity Chat App](https://github.com/billmei/every-proximity-chat-app), this is a list to keep track of every graphical user interface to ChatGPT.
+Similar to [Every Proximity Chat App](https://github.com/billmei/every-proximity-chat-app), I made this list to keep track of every graphical user interface alternative to ChatGPT.
 
 If you want to add your app, feel free to open a pull request to add your app to the list. You can list your app under the appropriate category in alphabetical order. If you want your app removed from this list, you can also open a pull request to do that too.
 
