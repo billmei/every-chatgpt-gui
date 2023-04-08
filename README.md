@@ -20,3 +20,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ## Not Open Source
 - TypingMind | [demo](https://www.typingmind.com)
+
+
+# Other
+https://www.askmarvin.ai/guide/concepts/tui/
