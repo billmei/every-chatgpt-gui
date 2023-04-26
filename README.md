@@ -26,6 +26,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chatbox | [download](https://chatboxapp.xyz/) | [source](https://github.com/Bin-Huang/chatbox)
 - ChatGPT Desktop | [download](https://github.com/chatgptui/desktop/releases) | [source](https://github.com/chatgptui/desktop)
 - Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
+- ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
 
 ## Not Open Source
 
