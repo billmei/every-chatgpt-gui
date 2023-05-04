@@ -17,6 +17,10 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - Next.js ChatGPT | [demo](https://nextjs-chatgpt-app-enricoros.vercel.app/) | [source](https://github.com/enricoros/nextjs-chatgpt-app)
 
+### Browser Extension
+
+- chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
+
 ### Self-Hosted
 - ChatGPT UI | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
