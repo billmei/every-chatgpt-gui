@@ -7,6 +7,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ## Open Source
 
 ### Web
+- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
 - ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
 - ChatGPT Next Web | [demo](https://chat-gpt-next-web.vercel.app/) | [source](https://github.com/Yidadaa/ChatGPT-Next-Web)
@@ -15,7 +16,6 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
-- Next.js ChatGPT | [demo](https://nextjs-chatgpt-app-enricoros.vercel.app/) | [source](https://github.com/enricoros/nextjs-chatgpt-app)
 
 ### Browser Extension
 
