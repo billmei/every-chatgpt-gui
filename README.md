@@ -40,6 +40,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - TypingMind | [demo](https://www.typingmind.com)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
+- AI.LS | [demo](https://ai.ls/)
 
 ### Browser Extension
 - Superpower ChatGPT | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?hl=en&authuser=0) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
