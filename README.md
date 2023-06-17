@@ -48,6 +48,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Desktop
 - MacGPT | [download](https://www.macgpt.com/)
 - BoltAI | [download](https://boltai.app/)
+- Writers brew | [download](https://writersbrew.app)
 
 # More plugins and tools
 - [Awesomelist](https://github.com/reorx/awesome-chatgpt-api)
