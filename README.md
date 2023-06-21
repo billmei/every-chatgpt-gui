@@ -16,6 +16,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
+- L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT)
 
 ### Browser Extension
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
