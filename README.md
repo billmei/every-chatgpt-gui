@@ -15,8 +15,8 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
-- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT)
+- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 
 ### Browser Extension
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
@@ -30,26 +30,26 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Desktop
 - Chatbox | [download](https://chatboxapp.xyz/) | [source](https://github.com/Bin-Huang/chatbox)
 - ChatGPT Desktop | [download](https://github.com/chatgptui/desktop/releases) | [source](https://github.com/chatgptui/desktop)
-- Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
+- Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
 
 ## Not Open Source
 
 ### Web
+- AI.LS | [demo](https://ai.ls/)
 - ChatKit | [demo](https://chatkit.app/)
 - KoalaChat | [demo](https://koala.sh/chat)
-- TypingMind | [demo](https://www.typingmind.com)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
-- AI.LS | [demo](https://ai.ls/)
+- TypingMind | [demo](https://www.typingmind.com)
 
 ### Browser Extension
 - Superpower ChatGPT | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?hl=en&authuser=0) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
 
 ### Desktop
+- BoltAI | [download](https://boltai.app/)
 - EasyChat AI | [download](https://easychat-ai.app/)
 - MacGPT | [download](https://www.macgpt.com/)
-- BoltAI | [download](https://boltai.app/)
 - Writers brew | [download](https://writersbrew.app)
 
 # More plugins and tools
