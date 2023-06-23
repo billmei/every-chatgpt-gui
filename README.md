@@ -17,6 +17,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
 - L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
+- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
 
 ### Browser Extension
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
@@ -42,6 +43,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
 - TypingMind | [demo](https://www.typingmind.com)
+- Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/) | [source](https://horizon-ui.com/ai-template/)
 
 ### Browser Extension
 - Superpower ChatGPT | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc?hl=en&authuser=0) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
