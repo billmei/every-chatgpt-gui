@@ -11,6 +11,8 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
 - ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
 - ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
+- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
+- ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
 - ChatGPT Next Web | [demo](https://chat-gpt-next-web.vercel.app/) | [source](https://github.com/Yidadaa/ChatGPT-Next-Web)
 - ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/cogentapps/chat-with-gpt)
