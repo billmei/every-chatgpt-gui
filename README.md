@@ -15,7 +15,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
 - ChatGPT Next Web | [demo](https://chat-gpt-next-web.vercel.app/) | [source](https://github.com/Yidadaa/ChatGPT-Next-Web)
 - ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
-- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/cogentapps/chat-with-gpt)
+- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
 - L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT)
