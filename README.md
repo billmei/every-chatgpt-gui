@@ -53,6 +53,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
+- ChatGPT Toolkit | [download](https://schmedu.com/chatGpt)
 - EasyChat AI | [download](https://easychat-ai.app/)
 - MacGPT | [download](https://www.macgpt.com/)
 - Writers brew | [download](https://writersbrew.app)
