@@ -31,6 +31,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Self-Hosted
 - ChatGPT UI | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
+- GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - my-chat-gpt | [source](https://github.com/michaelnutt02/my-chat-gpt)
 
