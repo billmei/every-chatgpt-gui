@@ -53,6 +53,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
 - TypingMind | [demo](https://www.typingmind.com)
+- Wielded | [demo](https://wielded.com/)
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
