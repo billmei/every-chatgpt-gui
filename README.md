@@ -7,6 +7,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ## Open Source
 
 ### Web
+- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
 - big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
 - ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
