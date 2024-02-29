@@ -43,6 +43,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
 - Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
+- GPTextual | [source](https://github.com/stefankirchfeld/gptextual)
 
 ## Not Open Source
 
