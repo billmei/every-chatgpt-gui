@@ -34,9 +34,9 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT UI | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
+- Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - my-chat-gpt | [source](https://github.com/michaelnutt02/my-chat-gpt)
-- Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 
 ### Desktop
 - Chatbox | [download](https://chatboxapp.xyz/) | [source](https://github.com/Bin-Huang/chatbox)
