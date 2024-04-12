@@ -23,7 +23,8 @@ If you want to add your app, feel free to open a pull request to add your app to
 - chatwithme.chat | [demo](https://www.chatwithme.chat/) | [source](https://github.com/kierangilliam/chatwithme.chat)
 - L-GPT | [demo](https://gpt.ltopx.com/) | [source](https://github.com/Peek-A-Booo/L-GPT)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
-- SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT)
+- PatrikZero's ChatGPT UI | [demo](chat.patrikzudel.me) | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
+  - Fork: SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT)
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
 
 
