@@ -25,6 +25,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - PatrikZero's ChatGPT UI | [demo](https://chat.patrikzudel.me/) | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
   - Fork: SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT)
+- SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt)
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
 
 
