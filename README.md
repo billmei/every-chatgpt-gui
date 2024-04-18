@@ -60,6 +60,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Poe | [demo](https://poe.com/)
 - TypingMind | [demo](https://www.typingmind.com)
 - Wielded | [demo](https://wielded.com/)
+- InfernoAI | [demo](https://www.getinfernoai.com/)
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
