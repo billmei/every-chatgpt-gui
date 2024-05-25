@@ -70,6 +70,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - EasyChat AI | [download](https://easychat-ai.app/)
 - FridayGPT | [download](https://www.fridaygpt.app/)
 - MacGPT | [download](https://www.macgpt.com/)
+- Msty | [download](https://msty.app)
 - Writers brew | [download](https://writersbrew.app)
 
 # More plugins and tools
