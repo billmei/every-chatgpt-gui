@@ -58,6 +58,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - grafychat | [demo](https://grafychat.com)
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
 - InfernoAI | [demo](https://www.getinfernoai.com/)
+- Keynet.AI | [demo](https://keynet.ai/)
 - KoalaChat | [demo](https://koala.sh/chat)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
