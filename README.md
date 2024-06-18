@@ -27,6 +27,7 @@ If you want to add your app, feel free to open a pull request to add your app to
   - Fork: SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT)
 - SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt)
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
+- WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
 
 
 ### Browser Extension
