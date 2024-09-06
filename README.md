@@ -54,6 +54,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Web
 - AI.LS | [demo](https://ai.ls/)
 - AICamp | [demo](https://aicamp.so)
+- Chatbus AI | [demo](https://www.chatbus.ai)
 - ChatKit | [demo](https://chatkit.app/)
 - grafychat | [demo](https://grafychat.com)
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
