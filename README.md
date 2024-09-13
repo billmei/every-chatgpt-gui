@@ -65,6 +65,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Poe | [demo](https://poe.com/)
 - TypingMind | [demo](https://www.typingmind.com)
 - Wielded | [demo](https://wielded.com/)
+- You.com | [demo](https://you.com/plans)
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
