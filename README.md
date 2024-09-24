@@ -42,8 +42,10 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - my-chat-gpt | [source](https://github.com/michaelnutt02/my-chat-gpt)
+- Open WebUI | [source](https://github.com/open-webui/open-webui)
 
 ### Desktop
+- AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
 - Chatbox | [download](https://chatboxapp.xyz/) | [source](https://github.com/Bin-Huang/chatbox)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
