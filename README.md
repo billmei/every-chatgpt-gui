@@ -8,7 +8,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Web
 - AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat)
-- AI Belvedere | [demo](ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/)
+- AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/)
 - BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
 - big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
