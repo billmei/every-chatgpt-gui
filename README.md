@@ -22,6 +22,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT)
+- LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - PatrikZero's ChatGPT UI | [demo](https://chat.patrikzudel.me/) | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
   - Fork: SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT)
