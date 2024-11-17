@@ -46,6 +46,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - my-chat-gpt | [source](https://github.com/michaelnutt02/my-chat-gpt)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
+- VT.ai | [source](https://github.com/vinhnx/vt.ai)
 
 ### Desktop
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
