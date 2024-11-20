@@ -44,9 +44,12 @@ If you want to add your app, feel free to open a pull request to add your app to
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
-- my-chat-gpt | [source](https://github.com/michaelnutt02/my-chat-gpt)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
+- GPT4All | [source](https://github.com/nomic-ai/nomic)
+- Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
+- YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
+- Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
 
 ### Desktop
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
