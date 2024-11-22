@@ -68,6 +68,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - InfernoAI | [demo](https://www.getinfernoai.com/)
 - Keynet.AI | [demo](https://keynet.ai/)
 - KoalaChat | [demo](https://koala.sh/chat)
+- Mammouth | [demo](https://mammouth.ai/)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
 - TypingMind | [demo](https://www.typingmind.com)
