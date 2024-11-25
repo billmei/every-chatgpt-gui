@@ -26,9 +26,8 @@ If you want to add your app, feel free to open a pull request to add your app to
 - LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat)
-- PatrikZero's ChatGPT UI | [demo](https://chat.patrikzudel.me/) | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
-  - Fork: SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT)
 - SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt)
+- SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT) (fork of [ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI))
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
 - WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
 
@@ -40,7 +39,6 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Self-Hosted
 - Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
-- ChatGPT UI | [source](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
