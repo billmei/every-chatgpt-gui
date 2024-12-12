@@ -70,6 +70,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - KoalaChat | [demo](https://koala.sh/chat)
 - Mammouth | [demo](https://mammouth.ai/)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
+- NeatFlow AI | [demo](https://neatflowai.com)
 - Poe | [demo](https://poe.com/)
 - TypingMind | [demo](https://www.typingmind.com)
 - Wielded | [demo](https://wielded.com/)
