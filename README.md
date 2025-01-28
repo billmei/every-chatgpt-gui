@@ -40,13 +40,13 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
+- Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
-- Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
 
 ### Desktop
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
