@@ -31,7 +31,6 @@ If you want to add your app, feel free to open a pull request to add your app to
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
 - WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
 
-
 ### Browser Extension
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
 - ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui)
@@ -41,6 +40,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
+- Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
