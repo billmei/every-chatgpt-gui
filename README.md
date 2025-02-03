@@ -22,6 +22,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
+- inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit)
 - L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT)
 - LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
@@ -34,6 +35,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Browser Extension
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
 - ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui)
+- inferit | [source](https://github.com/devidw/inferit) | [Chrome](https://chromewebstore.google.com/detail/inferit/celkhcifjknihgjlieolcmchofdloagk)
 - Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
 
 ### Self-Hosted
