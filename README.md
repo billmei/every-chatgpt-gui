@@ -48,6 +48,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
+- free webui | [source](https://github.com/stella6767/free-webui)
 
 ### Desktop
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
