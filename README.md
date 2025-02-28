@@ -51,7 +51,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Desktop
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
-- Chatbox | [download](https://chatboxapp.xyz/) | [source](https://github.com/Bin-Huang/chatbox)
+- Chatbox | [download](https://chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
 - GPT4All | [download](https://www.nomic.ai/gpt4all) | [source](https://github.com/nomic-ai/gpt4all)
