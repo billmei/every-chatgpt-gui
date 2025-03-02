@@ -46,6 +46,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
+- Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
 
