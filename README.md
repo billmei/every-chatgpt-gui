@@ -7,89 +7,119 @@ If you want to add your app, feel free to open a pull request to add your app to
 ## Open Source
 
 ### Web
-- AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat)
-- AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/)
-- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
-- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi)
-- claude-ui | [source](https://github.com/chihebnabil/claude-ui)
-- Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui)
-- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template)
+- AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat) | JavaScript | Vue | 7 ⭐
+- AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/) | JavaScript | 12 ⭐
+- BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT) | JavaScript | 8323 ⭐
+- big-AGI | [demo](https://big-agi.com) | [source](https://github.com/enricoros/big-agi) | JavaScript | 6154 ⭐
+- claude-ui | [source](https://github.com/chihebnabil/claude-ui) | JavaScript | Vue | 79 ⭐
+- Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui) | JavaScript | 30312 ⭐
+- ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) | JavaScript | 521 ⭐
 - ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
-- ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT)
-- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
-- ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
+
+- ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT) | JavaScript | 62 ⭐
+- ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite) | JavaScript | 240 ⭐
+- ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal) | JavaScript | 64 ⭐
 - ChatGPT Next Web | [demo](https://app.nextchat.dev/) | [source](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
-- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
-- Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
-- inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit)
+
+- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel) | JavaScript | 3208 ⭐
+- ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web) | Python | Svelte | 1947 ⭐
+- Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt) | JavaScript | 2342 ⭐
+- inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit) | JavaScript | Svelte | 88 ⭐
 - L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT)
-- LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
-- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
-- OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat)
-- SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt)
-- SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT) (fork of [ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI))
-- vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
-- WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
+
+- LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat) | JavaScript | 56946 ⭐
+- MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt) | JavaScript | 90 ⭐
+- OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat) | JavaScript | 83 ⭐
+- SlickGPT | [demo](https://slickgpt.vercel.app) | [source](https://github.com/ShipBit/slickgpt) | JavaScript | Svelte | 474 ⭐
+- SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT) (fork of [ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI)) | JavaScript | Svelte | 22 ⭐
+- vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt) | JavaScript | 49 ⭐
+- WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat) | JavaScript | 651 ⭐
 
 ### Browser Extension
-- chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
-- ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui)
-- Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
+- chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121) | JavaScript | 10403 ⭐
+- ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui) | JavaScript | 10198 ⭐
+- Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/) | JavaScript | 1556 ⭐
 
 ### Self-Hosted
-- Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
-- ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
-- Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
-- Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
-- GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
+- Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse) | JavaScript | 1916 ⭐
+- ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web) | JavaScript | Vue | 31881 ⭐
+- Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad) | JavaScript | 1424 ⭐
+- Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub) | JavaScript | 18 ⭐
+- GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal) | JavaScript | 358 ⭐
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
-- LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
-- Open WebUI | [source](https://github.com/open-webui/open-webui)
-- Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
+
+- LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat) | JavaScript | 22755 ⭐
+- Open WebUI | [source](https://github.com/open-webui/open-webui) | JavaScript | Svelte | 80678 ⭐
+- Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid) | Dart | 1738 ⭐
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
-- YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
+
+- YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT) | JavaScript | 1621 ⭐
 
 ### Desktop
-- AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
-- Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox)
+- AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | 39865 ⭐
+- Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox) | JavaScript | 32772 ⭐
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
-- Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
-- GPT4All | [download](https://www.nomic.ai/gpt4all) | [source](https://github.com/nomic-ai/gpt4all)
-- GPTextual | [source](https://github.com/stefankirchfeld/gptextual)
-- Jan | [demo](https://jan.ai/) | [source](https://github.com/janhq/jan)
-- Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
-- PyGPT | [demo](https://pygpt.net/) | [source](https://github.com/szczyglis-dev/py-gpt)
+
+- Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror) | JavaScript | 392 ⭐
+- GPT4All | [download](https://www.nomic.ai/gpt4all) | [source](https://github.com/nomic-ai/gpt4all) | C++ | 72688 ⭐
+- GPTextual | [source](https://github.com/stefankirchfeld/gptextual) | Python | 17 ⭐
+- Jan | [demo](https://jan.ai/) | [source](https://github.com/janhq/jan) | JavaScript | 27872 ⭐
+- Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin) | Python | 5535 ⭐
+- PyGPT | [demo](https://pygpt.net/) | [source](https://github.com/szczyglis-dev/py-gpt) | Python | 896 ⭐
   
 ## Not Open Source
 
 ### Web
 - AI.LS | [demo](https://ai.ls/)
+
 - AICamp | [demo](https://aicamp.so)
+
 - Chatbus AI | [demo](https://www.chatbus.ai)
+
 - ChatKit | [demo](https://chatkit.app/)
+
 - grafychat | [demo](https://grafychat.com)
+
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
+
 - InfernoAI | [demo](https://www.getinfernoai.com/)
+
 - Keynet.AI | [demo](https://keynet.ai/)
+
 - KoalaChat | [demo](https://koala.sh/chat)
+
 - Mammouth | [demo](https://mammouth.ai/)
+
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
+
 - NeatFlow AI | [demo](https://neatflowai.com)
+
 - Poe | [demo](https://poe.com/)
+
 - TypingMind | [demo](https://www.typingmind.com)
+
 - Wielded | [demo](https://wielded.com/)
+
 - You.com | [demo](https://you.com/plans)
+
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
+
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
+
 - ChatWise | [download](https://chatwise.app/)
+
 - EasyChat AI | [download](https://easychat-ai.app/)
+
 - FridayGPT | [download](https://www.fridaygpt.app/)
+
 - MacGPT | [download](https://www.macgpt.com/)
+
 - Msty | [download](https://msty.app)
+
 - Writers brew | [download](https://writersbrew.app)
 
+
 # More plugins and tools
-- [Awesomelist](https://github.com/reorx/awesome-chatgpt-api)
+- [Awesomelist](https://github.com/reorx/awesome-chatgpt-api) | Python | 6093 ⭐
