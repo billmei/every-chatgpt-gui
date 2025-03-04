@@ -15,18 +15,15 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chatbot UI | [demo](https://www.chatbotui.com/) | [source](https://github.com/mckaywrigley/chatbot-ui) | JavaScript | 30312 ⭐
 - ChatGPT AI Template | [demo](https://horizon-ui.com/chatgpt-ai-template/) | [source](https://github.com/horizon-ui/chatgpt-ai-template) | JavaScript | 521 ⭐
 - ChatGPT-API Demo | [demo](https://chatgpt.ddiu.me/) | [source](https://github.com/ddiu8081/chatgpt-demo)
-
 - ChatGPT Cloned | [demo](https://chat-gpt-cloned.netlify.app/) | [source](https://github.com/PrasadBroo/ChatGPT) | JavaScript | 62 ⭐
 - ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite) | JavaScript | 240 ⭐
 - ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal) | JavaScript | 64 ⭐
 - ChatGPT Next Web | [demo](https://app.nextchat.dev/) | [source](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-
 - ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel) | JavaScript | 3208 ⭐
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web) | Python | Svelte | 1947 ⭐
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt) | JavaScript | 2342 ⭐
 - inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit) | JavaScript | Svelte | 88 ⭐
 - L-GPT | [demo](https://le-ai.app/) | [source](https://github.com/Peek-A-Booo/L-GPT)
-
 - LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat) | JavaScript | 56946 ⭐
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt) | JavaScript | 90 ⭐
 - OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat) | JavaScript | 83 ⭐
@@ -47,19 +44,16 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub) | JavaScript | 18 ⭐
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal) | JavaScript | 358 ⭐
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
-
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat) | JavaScript | 22755 ⭐
 - Open WebUI | [source](https://github.com/open-webui/open-webui) | JavaScript | Svelte | 80678 ⭐
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid) | Dart | 1738 ⭐
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
-
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT) | JavaScript | 1621 ⭐
 
 ### Desktop
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm) | JavaScript | 39865 ⭐
 - Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox) | JavaScript | 32772 ⭐
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
-
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror) | JavaScript | 392 ⭐
 - GPT4All | [download](https://www.nomic.ai/gpt4all) | [source](https://github.com/nomic-ai/gpt4all) | C++ | 72688 ⭐
 - GPTextual | [source](https://github.com/stefankirchfeld/gptextual) | Python | 17 ⭐
@@ -71,55 +65,31 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Web
 - AI.LS | [demo](https://ai.ls/)
-
 - AICamp | [demo](https://aicamp.so)
-
 - Chatbus AI | [demo](https://www.chatbus.ai)
-
 - ChatKit | [demo](https://chatkit.app/)
-
 - grafychat | [demo](https://grafychat.com)
-
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
-
 - InfernoAI | [demo](https://www.getinfernoai.com/)
-
 - Keynet.AI | [demo](https://keynet.ai/)
-
 - KoalaChat | [demo](https://koala.sh/chat)
-
 - Mammouth | [demo](https://mammouth.ai/)
-
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
-
 - NeatFlow AI | [demo](https://neatflowai.com)
-
 - Poe | [demo](https://poe.com/)
-
 - TypingMind | [demo](https://www.typingmind.com)
-
 - Wielded | [demo](https://wielded.com/)
-
 - You.com | [demo](https://you.com/plans)
-
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
-
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
-
 - ChatWise | [download](https://chatwise.app/)
-
 - EasyChat AI | [download](https://easychat-ai.app/)
-
 - FridayGPT | [download](https://www.fridaygpt.app/)
-
 - MacGPT | [download](https://www.macgpt.com/)
-
 - Msty | [download](https://msty.app)
-
 - Writers brew | [download](https://writersbrew.app)
-
 
 # More plugins and tools
 - [Awesomelist](https://github.com/reorx/awesome-chatgpt-api) | Python | 6093 ⭐
