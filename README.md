@@ -19,7 +19,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
 - ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
 - ChatGPT Next Web | [demo](https://app.nextchat.dev/) | [source](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
-- ChatGPT-Vercel | [demo](https://www.chatsverse.xyz/) | [source](https://github.com/ourongxing/chatgpt-vercel)
+- ChatGPT-Vercel | [demo](https://vercel-chatgpt-github.vercel.app/) | [source](https://github.com/ourongxing/chatgpt-vercel)
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
 - Chat with GPT | [demo](https://www.chatwithgpt.ai/) | [source](https://github.com/cogentapps/chat-with-gpt)
 - inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit)
