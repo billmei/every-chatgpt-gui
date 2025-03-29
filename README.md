@@ -54,6 +54,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
 - Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
+- Cherry Studio | [source](https://github.com/CherryHQ/cherry-studio)
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
 - GPT4All | [download](https://www.nomic.ai/gpt4all) | [source](https://github.com/nomic-ai/gpt4all)
 - GPTextual | [source](https://github.com/stefankirchfeld/gptextual)
