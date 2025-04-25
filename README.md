@@ -85,7 +85,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
-- ChatWise | [download](https://chatwise.app/)
+- ChatWise | [download](https://chatwise.app?atp=bill)
 - EasyChat AI | [download](https://easychat-ai.app/)
 - FridayGPT | [download](https://www.fridaygpt.app/)
 - MacGPT | [download](https://www.macgpt.com/)
