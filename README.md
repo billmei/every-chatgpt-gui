@@ -88,6 +88,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatWise | [download](https://chatwise.app?atp=bill)
 - EasyChat AI | [download](https://easychat-ai.app/)
 - FridayGPT | [download](https://www.fridaygpt.app/)
+- LLMSymphony | [download](https://github.com/llmsymphonyclient/llmclient)
 - MacGPT | [download](https://www.macgpt.com/)
 - Msty | [download](https://msty.app)
 - Writers brew | [download](https://writersbrew.app)
