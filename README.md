@@ -61,6 +61,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Jan | [demo](https://jan.ai/) | [source](https://github.com/janhq/jan)
 - Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
 - PyGPT | [demo](https://pygpt.net/) | [source](https://github.com/szczyglis-dev/py-gpt)
+- Witsy | [demo](https://witsyai.com/) | [source](https://github.com/nbonamy/witsy)
   
 ## Not Open Source
 
