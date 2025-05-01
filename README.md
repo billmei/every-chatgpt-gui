@@ -37,6 +37,11 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui)
 - Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
 
+### Obsidian plugins
+- BMO Chatbot | [source](https://github.com/longy2k/obsidian-bmo-chatbot)
+- ChatGPT MD | [source](https://github.com/bramses/chatgpt-md)
+- Pure Chat LLM | [source](https://github.com/TheJusticeMan/pure-chat-llm)
+
 ### Self-Hosted
 - Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
