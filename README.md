@@ -76,6 +76,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - AICamp | [demo](https://aicamp.so)
 - Chatbus AI | [demo](https://www.chatbus.ai)
 - ChatKit | [demo](https://chatkit.app/)
+- ContextChat | [demo](https://contextch.at/)
 - grafychat | [demo](https://grafychat.com)
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
 - InfernoAI | [demo](https://www.getinfernoai.com/)
