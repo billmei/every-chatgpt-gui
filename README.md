@@ -50,6 +50,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
+- KateChat | [demo](https://katechat.tech/) |  [source](https://github.com/artiz/kate-chat)
 - LibreChat | [demo](https://librechat-librechat.hf.space/login) | [source](https://github.com/danny-avila/LibreChat)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
