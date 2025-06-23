@@ -92,6 +92,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Desktop
 - BoltAI | [download](https://boltai.app/)
+- ChatFrame | [download](https://www.chatframe.co?utm_source=github_every-chatgpt-gui)
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
 - ChatWise | [download](https://chatwise.app?atp=bill)
 - EasyChat AI | [download](https://easychat-ai.app/)
