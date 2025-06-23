@@ -102,7 +102,6 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Msty | [download](https://msty.app)
 - Writers brew | [download](https://writersbrew.app)
 
-
 ### Mobile
 - Pal Chat | [iOS](https://apps.apple.com/us/app/pal-chat-ai-chat-client/id6447545085)
 
