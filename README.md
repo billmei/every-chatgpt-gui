@@ -87,6 +87,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - NeatFlow AI | [demo](https://neatflowai.com)
 - Poe | [demo](https://poe.com/)
+- Semantic Chat | [demo](https://www.semanticpen.com/)
 - TypingMind | [demo](https://www.typingmind.com)
 - Wielded | [demo](https://wielded.com/)
 - You.com | [demo](https://you.com/plans)
