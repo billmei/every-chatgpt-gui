@@ -9,6 +9,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ## Open Source
 
 ### Web
+
 - AI Chat | [demo](https://aichat.ksdev.pl) | [source](https://github.com/ksdev-pl/ai-chat)
 - AI Belvedere | [demo](https://ai-belvedere-demo.alergant.us) | [source](https://github.com/DmitriyAlergant-T1A/ai-belvedere/)
 - BetterChatGPT | [demo](https://bettergpt.chat/) | [source](https://github.com/ztjhz/BetterChatGPT)
@@ -36,23 +37,26 @@ If you want to add your app, feel free to open a pull request to add your app to
 - WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
 
 ### Browser Extension
-- chatGPTBox | [source](https://github.com/josStorer/chatGPTBox)  | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
+
+- chatGPTBox | [source](https://github.com/josStorer/chatGPTBox) | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf) | [Safari](https://apps.apple.com/app/fission-chatbox/id6446611121)
 - ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui)
 - Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
 
 ### Obsidian plugins
+
 - BMO Chatbot | [source](https://github.com/longy2k/obsidian-bmo-chatbot)
 - ChatGPT MD | [source](https://github.com/bramses/chatgpt-md)
 - Pure Chat LLM | [source](https://github.com/TheJusticeMan/pure-chat-llm)
 
 ### Self-Hosted
+
 - Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
-- KateChat | [demo](https://katechat.tech/) |  [source](https://github.com/artiz/kate-chat)
+- KateChat | [demo](https://katechat.tech/) | [source](https://github.com/artiz/kate-chat)
 - LibreChat | [demo](https://www.librechat.ai/) | [source](https://github.com/danny-avila/LibreChat)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
@@ -60,6 +64,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
 
 ### Desktop
+
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
 - Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
@@ -71,10 +76,11 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Marvin | [download](https://www.askmarvin.ai/) | [source](https://github.com/prefecthq/marvin)
 - PyGPT | [demo](https://pygpt.net/) | [source](https://github.com/szczyglis-dev/py-gpt)
 - Witsy | [demo](https://witsyai.com/) | [source](https://github.com/nbonamy/witsy)
-  
+
 ## Not Open Source
 
 ### Web
+
 - AI.LS | [demo](https://ai.ls/)
 - AICamp | [demo](https://aicamp.so)
 - Chatbus AI | [demo](https://www.chatbus.ai)
@@ -90,24 +96,34 @@ If you want to add your app, feel free to open a pull request to add your app to
 - NeatFlow AI | [demo](https://neatflowai.com)
 - Poe | [demo](https://poe.com/)
 - Supernovas AI LLM | [demo](https://supernovasai.com/)
+- ThinkBuddy | [demo](https://thinkbuddy.ai)
 - TypingMind | [demo](https://www.typingmind.com)
 - Wielded | [demo](https://wielded.com/)
 - You.com | [demo](https://you.com/plans)
 
 ### Desktop
+
+- Beam | [download](https://getbeam.ai)
 - BoltAI | [download](https://boltai.app/)
 - ChatFrame | [download](https://www.chatframe.co?utm_source=github_every-chatgpt-gui)
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
 - ChatWise | [download](https://chatwise.app?atp=bill)
 - EasyChat AI | [download](https://easychat-ai.app/)
 - FridayGPT | [download](https://www.fridaygpt.app/)
+- IntelliBar | [download](https://intellibar.app)
 - LLMSymphony | [download](https://github.com/llmsymphonyclient/llmclient)
 - MacGPT | [download](https://www.macgpt.com/)
 - Msty | [download](https://msty.app)
+- Peek | [download](https://prateekkeshari.gumroad.com/l/peek)
+- SUPgpt | [download](https://supgpt.app)
+- Walle | [download](https://www.wallestudio.com/)
 - Writers brew | [download](https://writersbrew.app)
+- Talky | [download](https://apps.apple.com/il/app/talky-your-llm-playground/id6446136018)
 
 ### Mobile
+
 - Pal Chat | [iOS](https://apps.apple.com/us/app/pal-chat-ai-chat-client/id6447545085)
 
 # More plugins and tools
+
 - [Awesomelist](https://github.com/reorx/awesome-chatgpt-api)
