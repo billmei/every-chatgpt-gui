@@ -2,6 +2,8 @@
 
 Similar to [Every Proximity Chat App](https://github.com/billmei/every-proximity-chat-app), I made this list to keep track of every graphical user interface alternative to access the API for ChatGPT, Claude, and other LLMs.
 
+**I wrote a quick guide on how to configure this for non-technical users:** [How I pay $1.79 instead of $20/mo for AI using a 5min hack](https://billmei.net/llm)
+
 If you want to add your app, feel free to open a pull request to add your app to the list. You can list your app under the appropriate category in alphabetical order. If you want your app removed from this list, you can also open a pull request to do that too.
 
 ## Open Source
