@@ -62,6 +62,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
+- free webui | [source](https://github.com/stella6767/free-webui)
 
 ### Desktop
 
