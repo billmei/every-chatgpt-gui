@@ -35,6 +35,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - SmoothGPT | [demo](https://smoothgpt.app) | [source](https://github.com/agambon/SmoothGPT) (fork of [ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI))
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
 - WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
+- WolfeChat | [demo](https://science.github.io/WolfeChat/) | [source](https://github.com/science/WolfeChat) (fork of [SmoothGPT](https://github.com/agambon/SmoothGPT))
 
 ### Browser Extension
 
