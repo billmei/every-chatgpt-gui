@@ -87,6 +87,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatKit | [demo](https://chatkit.app/)
 - ContextChat | [demo](https://contextch.at/)
 - grafychat | [demo](https://grafychat.com)
+- Glama | [demo](https://glama.ai/chat)
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
 - InfernoAI | [demo](https://www.getinfernoai.com/)
 - Keynet.AI | [demo](https://keynet.ai/)
