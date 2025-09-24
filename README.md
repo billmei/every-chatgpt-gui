@@ -67,7 +67,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Desktop
 
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
-- Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/Bin-Huang/chatbox)
+- Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/chatboxai/chatbox)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
 - Cherry Studio | [source](https://github.com/CherryHQ/cherry-studio)
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
@@ -87,8 +87,8 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chatbus AI | [demo](https://www.chatbus.ai)
 - ChatKit | [demo](https://chatkit.app/)
 - ContextChat | [demo](https://contextch.at/)
-- grafychat | [demo](https://grafychat.com)
 - Glama | [demo](https://glama.ai/chat)
+- grafychat | [demo](https://grafychat.com)
 - Horizon AI Template | [demo](https://horizon-ui.com/horizon-ai-template/)
 - InfernoAI | [demo](https://www.getinfernoai.com/)
 - Keynet.AI | [demo](https://keynet.ai/)
@@ -98,6 +98,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - NeatFlow AI | [demo](https://neatflowai.com)
 - Poe | [demo](https://poe.com/)
 - Supernovas AI LLM | [demo](https://supernovasai.com/)
+- T3 Chat | [demo](https://t3.chat/)
 - ThinkBuddy | [demo](https://thinkbuddy.ai)
 - TypingMind | [demo](https://www.typingmind.com)
 - Wielded | [demo](https://wielded.com/)
