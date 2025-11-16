@@ -60,6 +60,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - KateChat | [demo](https://katechat.tech/) | [source](https://github.com/artiz/kate-chat)
 - LibreChat | [demo](https://www.librechat.ai/) | [source](https://github.com/danny-avila/LibreChat)
+- Llumen | [source](https://github.com/pinkfuwa/llumen)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - llms.py | [source](https://github.com/ServiceStack/llms)
