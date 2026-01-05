@@ -53,6 +53,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 - Agent Zero | [demo](https://agent-zero.ai/) | [source](https://github.com/agent0ai/agent-zero)
 - Anse | [demo](https://anse.app) | [source](https://github.com/anse-app/anse)
+- assistant-ui | [source](https://github.com/assistant-ui/assistant-ui)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
