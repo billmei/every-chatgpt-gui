@@ -56,6 +56,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - assistant-ui | [source](https://github.com/assistant-ui/assistant-ui)
 - ChatGPT Web | [source](https://github.com/Chanzhaoyu/chatgpt-web)
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
+- clawdbot | [source](https://github.com/clawdbot/clawdbot)
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
