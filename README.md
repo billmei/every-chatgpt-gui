@@ -135,3 +135,5 @@ If you want to add your app, feel free to open a pull request to add your app to
 # More plugins and tools
 
 - [Awesomelist](https://github.com/reorx/awesome-chatgpt-api)
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 APIs, 28M+ data.
