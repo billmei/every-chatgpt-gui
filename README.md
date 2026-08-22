@@ -64,6 +64,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - LibreChat | [demo](https://www.librechat.ai/) | [source](https://github.com/danny-avila/LibreChat)
 - Llumen | [source](https://github.com/pinkfuwa/llumen)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
+- Persona | [source](https://github.com/jayamitkatariya/personacli)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - llms.py | [source](https://github.com/ServiceStack/llms)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
