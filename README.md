@@ -124,6 +124,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MacGPT | [download](https://www.macgpt.com/)
 - Msty | [download](https://msty.app)
 - Peek | [download](https://prateekkeshari.gumroad.com/l/peek)
+- Return Editor | [download](https://returneditor.ai/download/)
 - SUPgpt | [download](https://supgpt.app)
 - Walle | [download](https://www.wallestudio.com/)
 - Writers brew | [download](https://writersbrew.app)
