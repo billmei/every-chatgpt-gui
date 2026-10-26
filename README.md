@@ -59,6 +59,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Chatpad AI | [demo](https://chatpad.ai) | [source](https://github.com/deiucanta/chatpad)
 - clawdbot | [source](https://github.com/clawdbot/clawdbot)
 - Dashhub.ai | [source](https://github.com/DashHub-ai/DashHub)
+- GotChat.ai | [source](https://github.com/gotchat-ai/foundry)
 - GPTPortal | [source](https://github.com/Zaki-1052/GPTPortal)
 - Intelligence Hub | [source](https://github.com/streaver91/intelligence-hub)
 - KateChat | [demo](https://katechat.tech/) | [source](https://github.com/artiz/kate-chat)
