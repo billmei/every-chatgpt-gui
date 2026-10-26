@@ -16,7 +16,6 @@ If you want to add your app, feel free to open a pull request to add your app to
 - claude-ui | [source](https://github.com/chihebnabil/claude-ui)
 - ChatGPT Lite | [demo](https://gptlite.vercel.app) | [source](https://github.com/blrchen/chatgpt-lite)
 - ChatGPT Minimal | [demo](https://chatgpt-minimal.vercel.app) | [source](https://github.com/blrchen/chatgpt-minimal)
-- ChatGPT-Vercel | [demo](https://vercel-chatgpt-github.vercel.app/) | [source](https://github.com/ourongxing/chatgpt-vercel)
 - ChatGPT-web | [demo](https://niek.github.io/chatgpt-web/) | [source](https://github.com/Niek/chatgpt-web)
 - inferit | [demo](https://inferit.index.garden/) | [source](https://github.com/devidw/inferit)
 - LobeChat | [demo](https://lobechat.com/) | [source](https://github.com/lobehub/lobe-chat)
