@@ -23,7 +23,6 @@ If you want to add your app, feel free to open a pull request to add your app to
 - MyChatGPT | [demo](https://my-chat-gpt-lake.vercel.app/) | [source](https://github.com/Loeffeldude/my-chat-gpt)
 - NextChat | [demo](https://nextchat.club/) | [source](https://github.com/ChatGPTNextWeb/NextChat)
 - OrionChat | [demo](https://eliaspereirah.github.io/OrionChat) | [source](https://github.com/EliasPereirah/OrionChat)
-- SmoothGPT | [demo](https://smoothgpt.app) (fork of [ChatGPT UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI))
 - vanilla-chatgpt | [demo](https://raw.githack.com/casualwriter/vanilla-chatgpt/main/source/index.html) | [source](https://github.com/casualwriter/vanilla-chatgpt)
 - WebLLM | [demo](https://chat.webllm.ai/) | [source](https://github.com/mlc-ai/web-llm-chat)
 - WolfeChat | [demo](https://science.github.io/WolfeChat/) | [source](https://github.com/science/WolfeChat) (fork of SmoothGPT)
