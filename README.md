@@ -87,6 +87,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - KoalaChat | [demo](https://koala.sh/chat)
 - Mammouth | [demo](https://mammouth.ai/)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
+- Obscurify.ai | [demo](https://obscurify.ai/)
 - Poe | [demo](https://poe.com/)
 - Supernovas AI LLM | [demo](https://supernovasai.com/)
 - T3 Chat | [demo](https://t3.chat/)
