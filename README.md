@@ -116,6 +116,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Mobile
 
+- Craftify | [iOS](https://apps.apple.com/us/app/id6745511563)
 - Pal Chat | [iOS](https://apps.apple.com/us/app/pal-chat-ai-chat-client/id6447545085)
 - Sleek | [iOS](https://apps.apple.com/us/app/sleek-byok/id6786075866)
 
