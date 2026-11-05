@@ -60,6 +60,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 ### Desktop
 
+- AnyModelBot | [demo](https://anymodel.bot/en) | [source](https://github.com/modelflare-ai/AnyModelBot)
 - AnythingLLM | [download](https://github.com/Mintplex-Labs/anything-llm) | [source](https://github.com/Mintplex-Labs/anything-llm)
 - Chatbox | [download](https://web.chatboxai.app/) | [source](https://github.com/chatboxai/chatbox)
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
