@@ -86,6 +86,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - InfernoAI | [demo](https://www.getinfernoai.com/)
 - KoalaChat | [demo](https://koala.sh/chat)
 - Mammouth | [demo](https://mammouth.ai/)
+- My Assistant | [demo](https://myassistant.aplusz.app/)
 - MyGPT | [demo](https://mygpt.thesamur.ai/)
 - Poe | [demo](https://poe.com/)
 - Supernovas AI LLM | [demo](https://supernovasai.com/)
