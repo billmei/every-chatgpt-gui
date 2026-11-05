@@ -55,6 +55,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - llms.py | [source](https://github.com/ServiceStack/llms)
+- Pomelu | [source](https://github.com/ateymoori/pomelu)
 - VT.ai | [source](https://github.com/vinhnx/vt.ai)
 - YakGPT | [demo](https://yakgpt.vercel.app) | [source](https://github.com/yakGPT/yakGPT)
 
