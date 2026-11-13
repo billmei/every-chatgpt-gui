@@ -93,6 +93,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - T3 Chat | [demo](https://t3.chat/)
 - ThinkBuddy | [demo](https://thinkbuddy.ai)
 - TypingMind | [demo](https://www.typingmind.com)
+- Whizi | [demo](https://whizi.io/)
 - You.com | [demo](https://you.com/plans)
 
 ### Desktop
