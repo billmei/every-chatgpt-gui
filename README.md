@@ -111,6 +111,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Msty | [download](https://msty.app)
 - Peek | [download](https://prateekkeshari.gumroad.com/l/peek)
 - SUPgpt | [download](https://supgpt.app)
+- Tokeny | [download](https://tokeny-ai.com/?utm_source=github&utm_medium=referral&utm_campaign=g1115-t10)
 - Walle | [download](https://www.wallestudio.com/)
 - Writers brew | [download](https://writersbrew.app)
 - Talky | [download](https://apps.apple.com/il/app/talky-your-llm-playground/id6446136018)
