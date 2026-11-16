@@ -74,6 +74,10 @@ If you want to add your app, feel free to open a pull request to add your app to
 - PyGPT | [demo](https://pygpt.net/) | [source](https://github.com/szczyglis-dev/py-gpt)
 - Witsy | [demo](https://witsyai.com/) | [source](https://github.com/nbonamy/witsy)
 
+### Mobile
+
+- Quock | [iOS](https://apps.apple.com/app/quock/id6785608333) | [source](https://github.com/matteocelani/quock)
+
 ## Not Open Source
 
 ### Web
