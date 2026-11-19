@@ -52,6 +52,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - KateChat | [demo](https://katechat.tech/) | [source](https://github.com/artiz/kate-chat)
 - LibreChat | [demo](https://www.librechat.ai/) | [source](https://github.com/danny-avila/LibreChat)
 - Llumen | [source](https://github.com/pinkfuwa/llumen)
+- next-vibe (unbottled.ai) | [demo](https://unbottled.ai/en-US?utm_source=every-chatgpt-gui&utm_medium=directory&utm_campaign=listings-2026-11) | [source](https://github.com/techfreaque/next-vibe)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - llms.py | [source](https://github.com/ServiceStack/llms)
