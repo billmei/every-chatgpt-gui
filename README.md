@@ -29,7 +29,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 ### Browser Extension
 
 - chatGPTBox | [source](https://github.com/josStorer/chatGPTBox) | [Firefox](https://addons.mozilla.org/firefox/addon/chatgptbox/) | [Chrome](https://chrome.google.com/webstore/detail/chatgptbox/eobbhoofkanlmddnplfhnmkfbnlhpbbo) | [Edge](https://microsoftedge.microsoft.com/addons/detail/fission-chatbox-best/enjmfilpkbbabhgeoadmdpjjpnahkogf)
-- ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=every-chat-gpt-gui) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=every-chat-gpt-gui)
+- ChatHub | [source](https://github.com/chathub-dev/chathub/) | [Chrome](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma) | [Edge](https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga)
 - Superpower ChatGPT | [source](https://github.com/saeedezzati/superpower-chatgpt) | [Chrome](https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/superpower-chatgpt/)
 
 ### Obsidian plugins
@@ -52,7 +52,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - KateChat | [demo](https://katechat.tech/) | [source](https://github.com/artiz/kate-chat)
 - LibreChat | [demo](https://www.librechat.ai/) | [source](https://github.com/danny-avila/LibreChat)
 - Llumen | [source](https://github.com/pinkfuwa/llumen)
-- next-vibe (unbottled.ai) | [demo](https://unbottled.ai/en-US?utm_source=every-chatgpt-gui&utm_medium=directory&utm_campaign=listings-2026-11) | [source](https://github.com/techfreaque/next-vibe)
+- next-vibe (unbottled.ai) | [demo](https://unbottled.ai/en-US) | [source](https://github.com/techfreaque/next-vibe)
 - Open WebUI | [source](https://github.com/open-webui/open-webui)
 - Maid | [source](https://github.com/Mobile-Artificial-Intelligence/maid)
 - llms.py | [source](https://github.com/ServiceStack/llms)
@@ -106,7 +106,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 - Beam | [download](https://getbeam.ai)
 - BoltAI | [download](https://boltai.app/)
-- ChatFrame | [download](https://www.chatframe.co?utm_source=github_every-chatgpt-gui)
+- ChatFrame | [download](https://www.chatframe.co)
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
 - ChatWise | [download](https://chatwise.app?atp=bill)
 - EasyChat AI | [download](https://easychat-ai.app/)
