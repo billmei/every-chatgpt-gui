@@ -117,6 +117,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - LLMSymphony | [download](https://github.com/llmsymphonyclient/llmclient)
 - MacGPT | [download](https://www.macgpt.com/)
 - Msty | [download](https://msty.app)
+- Netpals | [download](https://github.com/DaveEuson/netpals/releases/latest)
 - Peek | [download](https://prateekkeshari.gumroad.com/l/peek)
 - Return Editor | [download](https://returneditor.ai/)
 - SUPgpt | [download](https://supgpt.app)
