@@ -112,6 +112,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT Toolkit | [download](https://schmedu.com/tools/chatGpt)
 - ChatWise | [download](https://chatwise.app?atp=bill)
 - EasyChat AI | [download](https://easychat-ai.app/)
+- Enconvo | [download](https://enconvo.com/)
 - FridayGPT | [download](https://www.fridaygpt.app/)
 - IntelliBar | [download](https://intellibar.app)
 - LLMSymphony | [download](https://github.com/llmsymphonyclient/llmclient)
