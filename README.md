@@ -76,6 +76,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Meraline | [download](https://github.com/Meldiron/meraline/releases/latest) | [source](https://github.com/Meldiron/meraline)
 - PyGPT | [demo](https://pygpt.net/) | [source](https://github.com/szczyglis-dev/py-gpt)
 - Sahkarmi | [download](https://sahkarmi.site/) | [source](https://github.com/ganguydhrubo/sahakarmi)
+- VersoWork | [download](https://github.com/mlubbad/versowork/releases/latest) | [source](https://github.com/mlubbad/versowork)
 - Witsy | [demo](https://witsyai.com/) | [source](https://github.com/nbonamy/witsy)
 
 ### Mobile
