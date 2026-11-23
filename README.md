@@ -69,6 +69,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - ChatGPT menubar app | [source](https://github.com/sw-yx/chatgpt-mac)
 - Cherry Studio | [source](https://github.com/CherryHQ/cherry-studio)
 - Clipboard Conqueror | [source](https://github.com/aseichter2007/ClipboardConqueror)
+- Extremely Autonomous Agents | [source](https://github.com/maxkxd/extremely-autonomous-agents)
 - GPT4All | [download](https://www.nomic.ai/gpt4all) | [source](https://github.com/nomic-ai/gpt4all)
 - GPTextual | [source](https://github.com/stefankirchfeld/gptextual)
 - Jan | [demo](https://jan.ai/) | [source](https://github.com/janhq/jan)
