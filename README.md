@@ -88,6 +88,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 
 - AI.LS | [demo](https://ai.ls/)
 - AICamp | [demo](https://aicamp.so)
+- Chat with Work | [demo](https://chatwithwork.com/)
 - ChatKit | [demo](https://chatkit.app/)
 - Glama | [demo](https://glama.ai/chat)
 - grafychat | [demo](https://grafychat.com)
