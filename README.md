@@ -100,6 +100,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Poe | [demo](https://poe.com/)
 - Supernovas AI LLM | [demo](https://supernovasai.com/)
 - T3 Chat | [demo](https://t3.chat/)
+- TeamoRouter Playground | [demo](https://teamorouter.com/playground)
 - ThinkBuddy | [demo](https://thinkbuddy.ai)
 - TypingMind | [demo](https://www.typingmind.com)
 - Whizi | [demo](https://whizi.io/)
