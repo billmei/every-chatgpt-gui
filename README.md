@@ -121,6 +121,7 @@ If you want to add your app, feel free to open a pull request to add your app to
 - Peek | [download](https://prateekkeshari.gumroad.com/l/peek)
 - Return Editor | [download](https://returneditor.ai/)
 - SUPgpt | [download](https://supgpt.app)
+- Tesseract | [download](https://tesseract.dev)
 - Tokeny | [download](https://tokeny-ai.com/)
 - Walle | [download](https://www.wallestudio.com/)
 - Writers brew | [download](https://writersbrew.app)
